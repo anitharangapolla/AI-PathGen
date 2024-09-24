@@ -1,7 +1,11 @@
 function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <Header />
+      <HeroSection />
+      <About />
+      <Features />
+      <Footer />
     </div>
   );
 }
